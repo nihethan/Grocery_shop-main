@@ -1,0 +1,1 @@
+Grocery_shop-main is a, user-friendly grocery store management system designed to handle the essential operations of a small or mid-sized grocery store. This project provides functionalities like adding items, managing inventory, processing customer purchases, and generating bills.  It can be a Java console app(Java Spring Boot / HTML + JS frontend)
